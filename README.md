@@ -1,10 +1,11 @@
 # AngularCodingChallengeJames2023
 
-to run this project you will need to 
-install the angular modules
-and install node modules by 
-inputting the command 
+To run the project locally, run the following commands:
+
+npm install -g @angular/cli
 npm install
+ng serve
+Then go to 'http://localhost:4200/' in your web browser.
 
 thank you for accepting me to undertake this coding task.
 
